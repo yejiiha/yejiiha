@@ -1,14 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=yejiiha&fontSize=70)
+
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=yejiiha&fontSize=90)
-
 ### Hi, there :] 👋
-
 <br />
 
 ### ⚒️ Tech Stack ⚒️
 
 <div align='center'>
-<span>Techs I've used at least once</span>
+<p>Techs I've used at least once</p>
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -25,6 +24,8 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
 </div>
+
+<br />
 
 ### 😀 My stats
 
