@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=yejiiha&fontSize=70)
 
 <div align="center">
+
 ### Hi, there :] 👋
+
 <br />
 
 ### ⚒️ Tech Stack ⚒️
@@ -27,7 +29,7 @@
 
 <br />
 
-### 😀 My stats
+### 😀 My GitHub Stats
 
 ![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejiiha&show_icons=true)
 
