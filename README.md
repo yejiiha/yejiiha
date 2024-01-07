@@ -16,15 +16,11 @@
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   
-  
-  
   <br />
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Native-0088CC?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  
   
   <br />
   
@@ -39,15 +35,13 @@
   <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white"/>
   
-  
-  
-  
+   <br />
+
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REACT%20QUERY-FF4154?style=flat-square&logo=React%20Query&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
+
+
+     
 </div>
-
-<br />
-
-### 😀 My GitHub Stats
-
-![Yeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=yejiiha&show_icons=true)
-
 </div>
